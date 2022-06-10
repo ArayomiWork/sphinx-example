@@ -33,7 +33,6 @@ Docs-as-code (Documentation as Code) — это философия, при ко�
     quick-start
     project-setup
     main-syntax-rst
-    extensions
     git
     deploy    
 
